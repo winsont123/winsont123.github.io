@@ -16,6 +16,7 @@ img{
     width: 0;
     height:0;
     overflow: hidden;
+    position: fixed;
 }
 .slide:nth-child(1){
     background-position-y: -500px;
