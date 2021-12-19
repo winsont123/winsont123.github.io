@@ -15,7 +15,6 @@ img{
     opacity: 0;
     width: 0;
     height:0;
-    overflow: hidden;
     position: fixed;
 }
 .slide:nth-child(1){
